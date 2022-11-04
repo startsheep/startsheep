@@ -1,2 +1,3 @@
-# startsheep
-Config files for my GitHub profile.
+<div align="center"> 
+[![jasineri/gitartwork](gitartwork.svg)](https://github.com/startsheep/startsheep)
+</div>
